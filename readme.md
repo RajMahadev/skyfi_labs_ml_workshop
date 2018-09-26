@@ -8,8 +8,6 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
 * [Anaconda](http://docs.anaconda.com/anaconda/install/) - A free, easy-to-install package manager, environment manager and Python distribution with a collection of 1,000+ open source packages with free community support.
 
 <!-- 
